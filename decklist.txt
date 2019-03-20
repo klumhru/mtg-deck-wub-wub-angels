@@ -20,7 +20,7 @@
 
 3 Adanto Vanguard (XLN) 1
 3 Disdainful Stroke (GRN) 37
-3 Cast Down (DAR) 81
+3 Ritual of Soot (GRN) 84
 1 Mortify (RNA) 192
 4 Tocatli Honor Guard (XLN) 42
 1 Teferi, Hero of Dominaria (DAR) 207
